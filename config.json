@@ -3,6 +3,17 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "salmanprottoy"
+    "salmanprottoy",
+    "CRM-Software-laravel",
+    "banglaCarApp",
+    "premier-league-football-team-info",
+    "city-riding-service",
+    "cooking-master",
+    "instaShop",
+    "vue-multapplied",
+    "beego-user-registration",
+    "beego-rest-api",
+    "python-web-scraping-db",
+    "restful-open-api"
   ]
 }
