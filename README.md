@@ -85,38 +85,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/salmanprottoy/stunning-adventure/tree/master/readme/361478832/year.md">
-				city-riding-service
-			</a>
-		</td>
-		<td>
-			2022/3/5 12:36 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/salmanprottoy/stunning-adventure/raw/master/graph/361478832/small/year.png" height="20"> 7
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/salmanprottoy/stunning-adventure/tree/master/readme/336582100/year.md">
-				cooking-master
-			</a>
-		</td>
-		<td>
-			2022/3/5 12:36 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/salmanprottoy/stunning-adventure/raw/master/graph/336582100/small/year.png" height="20"> 52
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/salmanprottoy/stunning-adventure/tree/master/readme/373232455/year.md">
 				instaShop
 			</a>
@@ -213,7 +181,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/7 12:34 AM UTC</i></small>
+<small><i>Last updated on 2022/3/7 6:12 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
