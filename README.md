@@ -53,6 +53,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/salmanprottoy/stunning-adventure/tree/master/readme/373547823/year.md">
+				banglaCarApp
+			</a>
+		</td>
+		<td>
+			2022/3/11 12:36 AM UTC
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/salmanprottoy/stunning-adventure/raw/master/graph/373547823/small/year.png" height="20"> 57
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/salmanprottoy/stunning-adventure/tree/master/readme/361478098/year.md">
 				premier-league-football-team-info
 			</a>
@@ -197,7 +213,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/13 12:13 PM UTC</i></small>
+<small><i>Last updated on 2022/3/13 6:10 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
