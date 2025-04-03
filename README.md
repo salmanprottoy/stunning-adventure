@@ -469,6 +469,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/salmanprottoy/stunning-adventure/tree/master/readme/337496260/year.md">
+				learning-microprocessor-and-embedded-systems-spring-2020-2021
+			</a>
+		</td>
+		<td>
+			2025/4/1 1:02 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/salmanprottoy/stunning-adventure/raw/master/graph/337496260/small/year.png" height="20"> 16
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/salmanprottoy/stunning-adventure/tree/master/readme/337351515/year.md">
 				learning-computer-networks-spring-2020-2021
 			</a>
@@ -677,7 +693,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/3 12:58 AM UTC</i></small>
+<small><i>Last updated on 2025/4/3 6:21 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
